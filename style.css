@@ -1,0 +1,34 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.navbar{
+    display: flex;
+    width: 40%;
+    justify-content: space-between;
+    align-items: center;
+}
+.hometab{
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    width: 20%;
+}
+.img-icons{
+display: contents;
+justify-content: space-between;
+align-items: left;
+width: 40%;
+}
+div ul{
+    display: flex;
+    justify-content: space-between;
+}
+div ul li{
+    justify-content: space-evenly;
+}
+.maindiv{
+    display: flex;
+}
